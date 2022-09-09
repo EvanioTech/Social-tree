@@ -41,6 +41,7 @@ h1{
 }
 a{
     text-decoration: none;
+    color: blueviolet;
 }
 
 @media screen and (max-width: 600px) {
